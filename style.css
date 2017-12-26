@@ -1,0 +1,131 @@
+
+
+    
+
+    #content {
+            color: grey;
+            font-size: 26px;
+            background-color: white;
+            text-align: center;
+            font-family: 'Helvetica', sans-serif;
+            
+
+
+            
+        }
+
+
+        
+
+        
+
+        
+
+        #one {
+            height: 100px;
+            width:100px;
+            text-align: center;
+            align-content: center;
+            opacity: .90;
+            border-radius: 5px;
+            outline: 0;
+            cursor: pointer;
+
+        }
+
+        #two {
+            height: 100px;
+            width: 100px;
+            text-align: center;
+            align-content: center;
+            opacity: .90;
+            border-radius: 5px;
+            outline: 0;
+            cursor: pointer;
+
+        }
+
+        #three {
+            height: 100px;
+            width: 100px;
+            text-align: center;
+            align-content: center;
+            opacity: .90;
+            border-radius: 5px;
+            margin-top: 30px;
+            outline: 0;
+            cursor: pointer;
+
+        }
+
+        #four {
+            height: 100px;
+            width: 100px;
+            text-align: center;
+            align-content: center;
+            opacity: .90;
+            border-radius: 5px;
+            outline: 0;
+            cursor: pointer;
+
+        }
+
+        .dark1 {
+            background-color: #98eabb;
+        }
+
+        .light1 {
+            background-color: #c1ffdb;
+        }
+
+        .dark2 {
+            background-color: #ff6f6b;
+        }
+
+        .light2 {
+            background-color: #ffebea;
+        }
+
+
+        .dark3 {
+            background-color: #fbfc8f;
+        }
+
+        .light3 {
+            background-color: #feffd6;
+        }
+
+        .dark4 {
+            background-color: #aaefef;
+        }
+
+        .light4 {
+            background-color: #d3feff;
+        }
+
+        .bt {
+            height: 30px;
+            width: 40px;
+            text-align: center;
+            border-radius: 5px;
+            background-color: transparent;
+            margin-top: 25px;
+            outline: 1px;
+            outline-color: orange;
+            cursor: pointer;
+        }
+
+
+
+        .img {
+            height: 12px;
+            width: 12px;
+            text-align: center;
+            align-content: center;
+
+        }
+
+        #footer{
+            margin:auto;
+            text-align:center;
+        }
